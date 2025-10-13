@@ -1,0 +1,15 @@
+  184  git commit -m 'adding oops'
+  185  git push
+  186  git rm oops
+  187  git commit -m 'removing oops'
+  188  git push
+  189  vi oops2
+  190  git add oops2
+  191  git commit -m 'removing oops2'
+  192  git push
+  193  vi never
+  194  git add never
+  195  git reset never
+  196  man rm
+  197  man cp
+  198  history
