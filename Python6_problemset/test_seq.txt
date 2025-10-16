@@ -1,0 +1,8 @@
+@HWI
+TTGA
++
+CC
+@HWI
+GCTCT
++
+@@C

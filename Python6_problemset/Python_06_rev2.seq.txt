@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='Python_06_rev.seq.txt' mode='w' encoding='UTF-8'>
