@@ -10,8 +10,8 @@ for hit_file in sys.argv[1:]:
             if line.startswith('#'):
                 continue
             this_data = dict(zip(field_names, line.split('\t')))
-            #print(this_data)
-            this_data['file'] = hit_file
+            #print(this_data)cd
+            this_data['file'] = hit_file()
             hits_list.append(this_data)
             break
 #print(hits_list)
